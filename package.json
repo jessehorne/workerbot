@@ -1,0 +1,17 @@
+{
+  "name": "workerbot",
+  "version": "0.0.1",
+  "description": "The official Discord bot for the Des Moines IWW.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Horne (j.horne2796@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.0.0",
+    "dotenv": "^10.0.0",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  }
+}
